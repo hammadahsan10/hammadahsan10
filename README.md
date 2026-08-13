@@ -33,7 +33,7 @@ const hammadAhsan = {
     cloud: ["Microsoft Azure", "AWS", "Heroku", "Netlify", "Vercel"],
     tools: ["Git", "GitHub", "GitLab"]
   },
-  launchedProjects: ["ZiggleBee", "Adfy", "Xtreme Gym App"],
+  launchedProjects: ["ZiggleBee", "Adfy", "PRM AI"],
   certifications: [],
   status: "Currently building web platforms @ Esquall",
   openTo: ["Freelance Projects", "Collaborations", "Interesting Problems"]
@@ -58,7 +58,7 @@ Developed ZiggleBee, an accessibility-focused platform for disabled users with A
 | Payments | Stripe |
 | Cloud | Microsoft Azure |
 
-🔗 [Live Demo & Details on Portfolio](https://hammadahsan-portfolio.netlify.app/) &nbsp;|&nbsp; 💻 [Code (Private)](https://github.com/esqualltpl/zigglebee-1)
+🔗 [Live Demo](https://app.zigglebee.com/) &nbsp;|&nbsp; 💻 [Code (Private)](https://github.com/esqualltpl/zigglebee-1)
 
 <br/>
 
@@ -75,24 +75,24 @@ A real estate management platform designed for agents, customers, and dealers to
 | AI | AI-Powered Document Analysis |
 | Cloud | Microsoft Azure / AWS |
 
-🔗 [Live Demo & Details on Portfolio](https://hammadahsan-portfolio.netlify.app/) &nbsp;|&nbsp; 💻 [Code (Private)](https://github.com/esqualltpl/adfy)
+🔗 [Live Demo](https://adfy-six.vercel.app/dashboard) &nbsp;|&nbsp; 💻 [Code (Private)](https://github.com/esqualltpl/adfy)
 
 <br/>
 
-### 💪 Xtreme Gym App
+### 🚖 PRM AI
 
-A gym-based app powered by AI that generates personalized meal and workout plans based on user details, while allowing users to manage and track their records, history, and progress through a dedicated portal.
+PRM AI is a premium chauffeur booking and management system used by its clients to handle transportation services efficiently. Bookings can be created manually by staff, submitted through Google Forms, received via text messages, or processed through email. The platform also includes a dedicated driver mobile application that provides real-time tracking, trip management, and driver-related operations.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hammadahsan10&repo=Xtreme-Gym-App&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="Xtreme Gym App"/>
+> 🔒 Private repository (Esquall org)
 
 | Layer | Technology |
 |---|---|
 | Frontend | React.js / Next.js |
-| Backend | Node.js |
-| AI | AI-Based Meal & Workout Plan Generation |
-| Database | MongoDB |
+| Backend | Node.js, Express.js |
+| Mobile | Driver App (Real-Time Tracking & Trip Management) |
+| Integrations | Google Forms, SMS, Email Booking Channels |
 
-🔗 [Live Demo & Details on Portfolio](https://hammadahsan-portfolio.netlify.app/) &nbsp;|&nbsp; 💻 [Code](https://github.com/hammadahsan10/Xtreme-Gym-App)
+🔗 [Live Demo](https://prmai.co.uk/) &nbsp;|&nbsp; 💻 [Code (Private)](https://github.com/esqualltpl/prmai)
 
 <br/>
 
