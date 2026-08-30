@@ -7,30 +7,30 @@
 </div>
 <br/>
 🧑‍💻 Who I Am
-<table>
-<tr>
-<td valign="top">
-🎯 Title
-<br/>Full Stack Developer
-🚀 Launched Projects
-<br/>ZiggleBee  •  Adfy  •  PRM AI
-📌 Status
-<br/>Currently building web platforms @ Esquall
-🤝 Open To
-<br/>Freelance Projects  •  Collaborations  •  Interesting Problems
-</td>
-<td valign="top">
-💻 Frontend
-<br/>HTML5, CSS3/SCSS, Tailwind CSS, JavaScript (ES6+), TypeScript, React.js, Next.js, Redux, Redux Toolkit, ShadCN, Material UI, PrimeReact, API Integration
-⚙️ Backend
-<br/>Node.js (Express.js), Nest.js, Socket.io, JWT Auth, Cron Jobs, FCM Token, Payment Gateway, Hardware Integration
-🗄️ Database
-<br/>MongoDB, MySQL, PostgreSQL, Supabase, Firebase
-☁️ Cloud
-<br/>Microsoft Azure, AWS, Heroku, Netlify, Vercel
-</td>
-</tr>
-</table>
+```typescript
+const hammadAhsan = {
+  title: "Full Stack Developer",
+  stack: {
+    frontend: [
+      "HTML5", "CSS3 / SCSS", "Tailwind CSS", "JavaScript (ES6+)",
+      "TypeScript", "React.js", "Next.js", "Redux", "Redux Toolkit",
+      "ShadCN", "Material UI", "PrimeReact", "API Integration (Fetch / Axios)"
+    ],
+    backend: [
+      "Node.js (Express.js)", "Nest.js", "Socket.io",
+      "JWT Authentication", "Cron Jobs", "FCM Token",
+      "Payment Gateway", "Hardware Integration"
+    ],
+    database: ["MongoDB", "MySQL", "PostgreSQL", "Supabase", "Firebase"],
+    cloud: ["Microsoft Azure", "AWS", "Heroku", "Netlify", "Vercel"],
+    tools: ["Git", "GitHub", "GitLab"]
+  },
+  launchedProjects: ["ZiggleBee", "Adfy", "PRM AI"],
+  certifications: [],
+  status: "Currently building web platforms @ Esquall",
+  openTo: ["Freelance Projects", "Collaborations", "Interesting Problems"]
+};
+```
 <br/>
 🚀 Featured Projects
 🐝 ZiggleBee
